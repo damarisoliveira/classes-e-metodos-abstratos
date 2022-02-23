@@ -21,6 +21,6 @@ public abstract class Pessoa {
 		return rendaAnual;
 	}
 
-	public abstract double impostos();
+	public abstract Double impostos();
 	
 }
